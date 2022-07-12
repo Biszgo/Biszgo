@@ -11,11 +11,11 @@ We would like to extend our thanks to the following sponsors for funding Biszgo 
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Biszgo framework! The contribution guide can be found in the [documentation](http://Biszgo.com/docs/contributions).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Biszgo community is welcoming to all, please review and abide by the [Code of Conduct](https://Biszgo.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
@@ -23,5 +23,5 @@ If you discover a security vulnerability within Biszgo, please send an e-mail to
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Biszgo framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
