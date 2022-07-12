@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Biszgo/Biszgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biszgo Sponsors
 
-Here are some ideas to get you started:
+We would like to extend our thanks to the following sponsors for funding Biszgo development. If you are interested in becoming a sponsor, please visit the [Biszgo page](https://biszgo.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Premium Partners
+
+- **[Tech media](https://techmedia.in/)**
+- **[Aaran Associates](https://aaraninfotech.com)**
+- **[SMS UPVC](https://smsupvc.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Biszgo, please send an e-mail to our Team via [info@biszgo.com](mailto:info@biszgo.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
